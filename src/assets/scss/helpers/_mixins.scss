@@ -1,0 +1,23 @@
+@mixin font-16 {
+    font-size: 16px;
+    line-height: 18px;
+}
+
+@mixin font-16-bold {
+    font-size: 16px;
+    line-height: 18px;
+    font-weight: 700;
+}
+
+@mixin font-20-bold {
+    font-size: 20px;
+    line-height: 24px;
+    font-weight: 700;
+}
+
+@mixin font-32-bold {
+    font-size: 32px;
+    line-height: 36px;
+    font-weight: 700;
+}
+

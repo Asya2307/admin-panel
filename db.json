@@ -1,0 +1,16 @@
+{
+  "settings": {
+    "up": true,
+    "down": false,
+    "headerFixed": false,
+    "footer": true,
+    "colorScheme": "#00f0d4",
+    "gallery": true,
+    "features": true,
+    "catalog": false,
+    "services": true,
+    "reviews": false,
+    "news": false,
+    "btnUp": false
+  }
+}
